@@ -19,4 +19,4 @@ To transform from depth buffer values to world coordinate values (essentially: r
 - convert from 4d homogeneous view space cordinates to normal 3d coordinates
 - convert the view space coordinates into world coordinates (transforming by inverse view matrix)
 
-The code has been optimized to give high accuracy in the calculations - but the resulting accuracy will depend on the z buffer resolution available for the hardware.
+The code has been optimized to give high accuracy in the calculations - but the resulting accuracy will depend on the z buffer resolution available for the hardware and the intermediate render buffers.
