@@ -24,6 +24,6 @@ The code has been optimized to give high accuracy in the calculations - but the 
 
 # sources
 
-https://github.com/mrdoob/three.js/issues/17865
-https://discourse.threejs.org/t/accessing-viewmatrix-in-main-program/16693
-https://stackoverflow.com/questions/32227283/getting-world-position-from-depth-buffer-value
+- https://github.com/mrdoob/three.js/issues/17865
+- https://discourse.threejs.org/t/accessing-viewmatrix-in-main-program/16693
+- https://stackoverflow.com/questions/32227283/getting-world-position-from-depth-buffer-value
