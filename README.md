@@ -1,6 +1,6 @@
 # screen-to-world
 
-The code in this repo shows how you, using a screen coordinate (mouse location) as input, can read out a depth buffer value from a 3d scene rendered in WebGL/three.js and then convert this into a 3d world coordinate.
+The code in this repo shows how you, using a screen coordinate (mouse location) as input, can read out a depth buffer value from a 3d scene rendered in WebGL/three.js and then use the coordinate and depth information to calculate a 3d world coordinate for that point.
 
 # method
 
