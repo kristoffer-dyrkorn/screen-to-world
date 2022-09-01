@@ -20,3 +20,10 @@ To transform from depth buffer values to world coordinate values (essentially: r
 - convert the view space coordinates into world coordinates (transforming by inverse view matrix)
 
 The code has been optimized to give high accuracy in the calculations - but the resulting accuracy will depend on the z buffer resolution available for the hardware and the intermediate render buffers.
+
+
+# sources
+
+https://github.com/mrdoob/three.js/issues/17865
+https://discourse.threejs.org/t/accessing-viewmatrix-in-main-program/16693
+https://stackoverflow.com/questions/32227283/getting-world-position-from-depth-buffer-value
